@@ -9,7 +9,8 @@
       </button>
       {% if site.title-img %}
         <a class="navbar-brand navbar-brand-logo" href="{{ site.url }}"><img src="{{ site.title-img }}"/></a>
-	<!-- If site title is not set, just print nothing in nav bar -->
+      {% else %}
+        <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
       {% endif %}
     </div>
 
