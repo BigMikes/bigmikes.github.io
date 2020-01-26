@@ -23,8 +23,8 @@ description: Journey of a Software Engineer
 
 # List of links in the navigation bar
 navbar-links:
-  GitHub: "https://github.com/BigMikes/"
-#  About Me: "aboutme"
+  GitHub: "https://github.com/bigmikes/"
+  CV: "resume-giulio.micheloni.pdf"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
